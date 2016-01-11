@@ -1,0 +1,23 @@
+{
+  "name": "notifit-js-sdk",
+  "version": "1.0.0",
+  "description": "This Javascript package creates layer to communicate with NOTIFIT back-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/Ofecka/notifit-js.git"
+  },
+  "keywords": [
+    "notifit",
+    "api"
+  ],
+  "author": "Filip Chalupa <chalupa.filip@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Ofecka/notifit-js#readme",
+  "dependencies": {
+    "node-fetch": "^1.3.3"
+  }
+}
