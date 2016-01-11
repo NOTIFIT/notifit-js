@@ -1,3 +1,5 @@
-module.exports = function() {
-  throw new Error('Not implemented.')
+var osLocale = require('os-locale')
+
+module.exports = function(){
+  return osLocale.sync()
 }

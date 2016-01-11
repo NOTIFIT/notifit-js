@@ -1,3 +1,5 @@
+var os = require('os')
+
 module.exports = function() {
-  throw new Error('Not implemented.')
+  return os.type()
 }
