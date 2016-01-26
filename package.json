@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/Ofecka/notifit-js.git"
+    "url": "git@github.com:NOTIFIT/notifit-js.git"
   },
   "keywords": [
     "notifit",
@@ -16,7 +16,7 @@
   ],
   "author": "Filip Chalupa <chalupa.filip@gmail.com>",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/Ofecka/notifit-js#readme",
+  "homepage": "https://github.com/NOTIFIT/notifit-js",
   "dependencies": {
     "node-fetch": "^1.3.3",
     "os-locale": "^1.4.0"
