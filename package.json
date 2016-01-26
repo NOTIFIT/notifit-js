@@ -1,5 +1,5 @@
 {
-  "name": "notifit-js-sdk",
+  "name": "notifit-js",
   "version": "1.0.0",
   "description": "This Javascript package creates layer to communicate with NOTIFIT back-end.",
   "main": "index.js",
