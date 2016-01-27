@@ -12,6 +12,12 @@ This Javascript package creates layer to communicate with NOTIFIT back-end.
 npm install notifit
 ```
 
+### You can test it
+```bash
+cd node_modules/notifit
+npm test
+```
+
 ### Require it
 
 ```javascript
