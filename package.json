@@ -1,6 +1,6 @@
 {
   "name": "notifit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This Javascript package creates layer to communicate with NOTIFIT back-end.",
   "main": "index.js",
   "scripts": {
